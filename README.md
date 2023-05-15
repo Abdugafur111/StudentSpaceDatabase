@@ -37,7 +37,7 @@ You will see **postgres=#**  it means that you entered our database. Then you ne
 called user. We choose the user database with the help of cmd : **/c** user. Then if we do **\dt** it will show all relations inside the database. 
 
 
-#ERD
+**#ERD**
 
 
 
